@@ -313,3 +313,6 @@ dist
 
 #gecko
 geckodriver.log
+
+#extracted pages
+pages

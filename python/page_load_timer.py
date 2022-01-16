@@ -75,7 +75,7 @@ if __name__ == "__main__":
         count = count + 1
         if count == 4:
             count = 0
-            with open(os.getcwd()+"/data/"+title[tc]+".csv", "w") as outfile:
+            with open(os.getcwd()+"/../plots/data/"+title[tc]+".csv", "w") as outfile:
                 tc = tc + 1
                 csvwriter = csv.writer(outfile)
                 csvwriter.writerow(keys+list(event_time.keys()))
