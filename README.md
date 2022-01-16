@@ -61,7 +61,7 @@ Results of the page load time obtain by selenium vary depending upon complexity 
 1. Senthil K., S. Bhat K., Jamadagni N., Sureshan S. and Prasad G. (2015). O3 - A Webpage Preprocessing Tool. In Proceedings of the 11th International Conference on Web Information Systems and Technologies - Volume 1: WEBIST, ISBN 978-989-758-106-9, pages 15-20.
 2. S. Zhang, C. Yang and M. Yu, "UE-based mobile web optimization," 2014 IEEE 7th Joint International Information Technology and Artificial Intelligence Conference, Chongqing, 2014, pp. 6-10.
 3. Y. Yao and J. Xia, "Analysis and research on the performance optimization of Web application system in high concurrency environment," 2016 IEEE Information Technology, Networking, Electronic and Automation Control Conference, Chongqing, 2016, pp. 321-326.
-4. MDN Web Docs (2018). ‘Introduction to the DOM’. https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Mode l/Introduction. Accessed on: August 2018.
-5. In Agile Web and App Development by Ekaterina Novoseltseva (2017). ‘Web Performance Optimization Techniques’. https://apiumhub.com/tech-blog- barcelona/web-performance- optimization-techniques/. Accessed on: September 2018.
-6. PageSpeed Insights (2018). ‘Minify Resources (HTML, CSS, and JavaScript)’. https://developers.google.com/speed/ docs/insights/MinifyResources. Accessed on: September 2018.
-7. Google Developers (2018), ‘Lighthouse Tools for Web Developers’, https:// developers.google.com/web/tools/ligh thouse/.Accessed on: November 2018.
+4. MDN Web Docs (2018). ‘Introduction to the DOM’. https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Mode l/Introduction. Accessed on: Dec 2018.
+5. In Agile Web and App Development by Ekaterina Novoseltseva (2017). ‘Web Performance Optimization Techniques’. https://apiumhub.com/tech-blog- barcelona/web-performance- optimization-techniques/. Accessed on: Dec 2018.
+6. PageSpeed Insights (2018). ‘Minify Resources (HTML, CSS, and JavaScript)’. https://developers.google.com/speed/ docs/insights/MinifyResources. Accessed on: Dec 2018.
+7. Google Developers (2018), ‘Lighthouse Tools for Web Developers’, https:// developers.google.com/web/tools/ligh thouse/.Accessed on: Jan 2019.
