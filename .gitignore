@@ -316,3 +316,5 @@ geckodriver.log
 
 #extracted pages
 pages
+
+.DS_Store
