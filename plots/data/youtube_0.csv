@@ -1,0 +1,6 @@
+navigationStart,fetchStart,domainLookupStart,domainLookupEnd,connectStart,connectEnd,secureConnectionStart,requestStart,responseStart,responseEnd,domLoading,domInteractive,domContentLoadedEventStart,domContentLoadedEventEnd,domComplete,loadEventStart,loadEventEnd
+0,2,2,2,2,2,-1537767032032,256,259,314,273,5122,5676,5684,5719,5719,5722
+0,3,3,3,3,3,-1537767037812,3,3,3,399,3204,3652,3659,3721,3721,3723
+0,1,1,1,1,1,-1537767041554,1,1,1,42,1998,2361,2366,4468,4468,4470
+0,4,4,4,4,4,-1537767046040,4,4,4,88,2734,3121,3129,3175,3175,3177
+0,1,1,1,1,1,-1537767049341,1,1,1,308,2473,2857,2861,2920,2920,2923

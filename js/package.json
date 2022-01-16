@@ -1,0 +1,34 @@
+{
+  "name": "frontend_optimization_2.1",
+  "version": "2.1.0",
+  "description": "Research project fot analyzation of frontend optimization methods on web.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-minify": "^1.0.0",
+    "node-minify": "^3.5.0",
+    "path": "^0.12.7",
+    "yuicompressor": "^2.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shsonawane/web-frontend-optimization.git"
+  },
+  "keywords": [
+    "web",
+    "frontend",
+    "javascript",
+    "minification"
+  ],
+  "author": "Shubham Sonawane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shsonawane/web-frontend-optimization/issues"
+  },
+  "homepage": "https://github.com/shsonawane/web-frontend-optimization#readme"
+}
