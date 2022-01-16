@@ -49,16 +49,12 @@ Results of the page load time were obtained from Mozilla Firefox web browser usi
 
 Results of the page load time obtain by selenium vary depending upon complexity and heftiness of the HTML documents requested by the browser. Results obtained forms a timeline of the render information fetched from the requested document on the browser side are below.
 
-### google.com
 ![Google](https://github.com/shsonawane/web-frontend-optimization/raw/main/plot-images/0001.jpg)
 
-### youtube.com
 ![YouTube](https://github.com/shsonawane/web-frontend-optimization/raw/main/plot-images/0002.jpg)
 
-### jaipur.manipal.edu
 ![Jaipur Manipal](https://github.com/shsonawane/web-frontend-optimization/raw/main/plot-images/0003.jpg)
 
-### pinterest.com
 ![Pinterest](https://github.com/shsonawane/web-frontend-optimization/raw/main/plot-images/0004.jpg)
 
 # References
